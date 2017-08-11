@@ -19,7 +19,7 @@ namespace pelda_project
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            dateTimePicker1.Visible = true;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
