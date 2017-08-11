@@ -20,11 +20,12 @@ namespace pelda_project
         private void label1_Click(object sender, EventArgs e)
         {
             dateTimePicker1.Visible = true;
+            label2.Text = "Újra beírtam";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
